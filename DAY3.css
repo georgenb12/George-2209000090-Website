@@ -1,0 +1,23 @@
+/*body{background-color:Light blue} */
+#head2{border: 2px dotted blue;
+}
+#box1 {background-color: lightblue;
+        border: 2px solid blue;
+       color:blue;
+       width:300px;
+       margin:auto;       
+}
+
+  p{
+       }
+
+#nav a:link{background-color: lightblue;
+        margin-right:20px;
+        padding:10px;
+        text-decoration: none;
+        color:black
+}
+#nav a:hover{background-color: rgb(146, 170, 10);}
+#nav a:link {color: rgb(53, 191, 196);
+}
+    
